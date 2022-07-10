@@ -1,0 +1,797 @@
+INFO 2022-07-10 00:02:56,943 root Welcome Student
+INFO 2022-07-10 00:02:56,943 root fetching total count of Student
+INFO 2022-07-10 00:02:56,944 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 00:02:56,944 root Neuron is created 
+INFO 2022-07-10 00:02:56,944 root Cost determination started for a neuron
+INFO 2022-07-10 00:02:56,944 root Cost of neuron is returned now 
+INFO 2022-07-10 00:02:56,944 root Creating list of courses for an instructor
+INFO 2022-07-10 00:02:56,945 root Course list is created and returned 
+INFO 2022-07-10 00:02:56,945 root Cost determination started for a course
+INFO 2022-07-10 00:02:56,945 root Cost of course is returned now 
+INFO 2022-07-10 00:02:56,945 root Starting registration of  an instructor
+INFO 2022-07-10 00:02:56,945 root Instructor registration process is done 
+INFO 2022-07-10 00:02:56,946 root Instructor skills is being updated
+INFO 2022-07-10 00:02:56,946 root Instructor skills are updated 
+INFO 2022-07-10 00:02:56,946 root Starting creation of a new sub course
+INFO 2022-07-10 00:02:56,946 root Sub Course registration process is completed 
+INFO 2022-07-10 00:02:56,946 root Starting counting of  sub courses
+INFO 2022-07-10 00:02:56,947 root Sub Course count process is completed 
+INFO 2022-07-10 00:02:56,947 root Starting deletion of a new sub course
+INFO 2022-07-10 00:02:56,947 root Sub Course deletion process is completed 
+INFO 2022-07-10 00:02:56,947 root Registering the Student
+INFO 2022-07-10 00:02:56,947 root Student Registration process is completed 
+INFO 2022-07-10 00:02:56,948 root Updating the Mobile number of Student
+INFO 2022-07-10 00:02:56,948 root Mobile Number updation process is completed 
+INFO 2022-07-10 00:02:56,949 root Creating the blog
+INFO 2022-07-10 00:02:56,949 root Blog is stored successfully 
+INFO 2022-07-10 00:02:56,950 root Fetching the blog types
+INFO 2022-07-10 00:02:56,950 root Blog types list is prepared 
+INFO 2022-07-10 00:02:56,950 root Starting the affiliation process
+INFO 2022-07-10 00:02:56,950 root Affiliation verified 
+INFO 2022-07-10 00:02:56,950 root Updating the bank details
+INFO 2022-07-10 00:02:56,950 root Account updated successfully 
+INFO 2022-07-10 00:02:56,951 root Starting the searching of jobs for given job type
+INFO 2022-07-10 00:02:56,951 root List generated for given job type 
+INFO 2022-07-10 00:02:56,951 root Storing the query
+INFO 2022-07-10 00:02:56,951 root Query created 
+INFO 2022-07-10 00:03:43,718 root Welcome Student
+INFO 2022-07-10 00:03:43,718 root fetching total count of Student
+INFO 2022-07-10 00:03:43,718 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 00:03:43,719 root Neuron is created 
+INFO 2022-07-10 00:03:43,719 root Cost determination started for a neuron
+INFO 2022-07-10 00:03:43,719 root Cost of neuron is returned now 
+INFO 2022-07-10 00:03:43,719 root Creating list of courses for an instructor
+INFO 2022-07-10 00:03:43,719 root Course list is created and returned 
+INFO 2022-07-10 00:03:43,719 root Cost determination started for a course
+INFO 2022-07-10 00:03:43,719 root Cost of course is returned now 
+INFO 2022-07-10 00:03:43,719 root Starting registration of  an instructor
+INFO 2022-07-10 00:03:43,720 root Instructor registration process is done 
+INFO 2022-07-10 00:03:43,720 root Instructor skills is being updated
+INFO 2022-07-10 00:03:43,720 root Instructor skills are updated 
+INFO 2022-07-10 00:03:43,720 root Starting creation of a new sub course
+INFO 2022-07-10 00:03:43,720 root Sub Course registration process is completed 
+INFO 2022-07-10 00:03:43,720 root Starting counting of  sub courses
+INFO 2022-07-10 00:03:43,720 root Sub Course count process is completed 
+INFO 2022-07-10 00:03:43,721 root Starting deletion of a new sub course
+INFO 2022-07-10 00:03:43,721 root Sub Course deletion process is completed 
+INFO 2022-07-10 00:03:43,721 root Registering the Student
+INFO 2022-07-10 00:03:43,721 root Student Registration process is completed 
+INFO 2022-07-10 00:03:43,721 root Updating the Mobile number of Student
+INFO 2022-07-10 00:03:43,722 root Mobile Number updation process is completed 
+INFO 2022-07-10 00:03:43,723 root Creating the blog
+INFO 2022-07-10 00:03:43,723 root Blog is stored successfully 
+INFO 2022-07-10 00:03:43,723 root Fetching the blog types
+INFO 2022-07-10 00:03:43,724 root Blog types list is prepared 
+INFO 2022-07-10 00:03:43,724 root Starting the affiliation process
+INFO 2022-07-10 00:03:43,724 root Affiliation verified 
+INFO 2022-07-10 00:03:43,724 root Updating the bank details
+INFO 2022-07-10 00:03:43,724 root Account updated successfully 
+INFO 2022-07-10 00:03:43,725 root Starting the searching of jobs for given job type
+INFO 2022-07-10 00:03:43,725 root List generated for given job type 
+INFO 2022-07-10 00:03:43,725 root Storing the query
+INFO 2022-07-10 00:03:43,725 root Query created 
+INFO 2022-07-10 12:43:41,344 root Welcome Student
+INFO 2022-07-10 12:43:41,390 root fetching total count of Student
+ERROR 2022-07-10 12:43:41,390 root Exception happened in fetching student count
+INFO 2022-07-10 12:43:41,390 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 12:43:41,390 root Neuron is created 
+INFO 2022-07-10 12:43:41,390 root Cost determination started for a neuron
+INFO 2022-07-10 12:43:41,390 root Cost of neuron is returned now 
+INFO 2022-07-10 12:46:06,590 root Welcome Student
+INFO 2022-07-10 12:46:06,590 root fetching total count of Student
+INFO 2022-07-10 12:46:06,590 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 12:46:06,590 root Neuron is created 
+INFO 2022-07-10 12:46:06,590 root Cost determination started for a neuron
+INFO 2022-07-10 12:46:06,590 root Cost of neuron is returned now 
+INFO 2022-07-10 12:46:06,606 root Creating list of courses for an instructor
+INFO 2022-07-10 12:46:06,606 root Course list is created and returned 
+INFO 2022-07-10 12:46:06,606 root Cost determination started for a course
+INFO 2022-07-10 12:46:06,606 root Cost of course is returned now 
+INFO 2022-07-10 12:46:06,606 root Starting registration of  an instructor
+INFO 2022-07-10 12:46:06,606 root Instructor registration process is done 
+INFO 2022-07-10 12:46:06,606 root Instructor skills is being updated
+INFO 2022-07-10 12:46:06,606 root Instructor skills are updated 
+INFO 2022-07-10 12:48:48,373 root Welcome Student
+INFO 2022-07-10 12:48:48,373 root fetching total count of Student
+INFO 2022-07-10 12:48:48,373 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 12:48:48,373 root Neuron is created 
+INFO 2022-07-10 12:48:48,373 root Cost determination started for a neuron
+INFO 2022-07-10 12:48:48,373 root Cost of neuron is returned now 
+INFO 2022-07-10 12:48:48,373 root Creating list of courses for an instructor
+INFO 2022-07-10 12:48:48,373 root Course list is created and returned 
+INFO 2022-07-10 12:48:48,373 root Cost determination started for a course
+INFO 2022-07-10 12:48:48,373 root Cost of course is returned now 
+INFO 2022-07-10 12:48:48,373 root Starting registration of  an instructor
+INFO 2022-07-10 12:48:48,373 root Instructor registration process is done 
+INFO 2022-07-10 12:48:48,373 root Instructor skills is being updated
+INFO 2022-07-10 12:48:48,373 root Instructor skills are updated 
+INFO 2022-07-10 12:48:48,373 root Starting creation of a new sub course
+INFO 2022-07-10 12:48:48,373 root Sub Course registration process is completed 
+INFO 2022-07-10 12:48:48,373 root Starting counting of  sub courses
+INFO 2022-07-10 12:48:48,373 root Sub Course count process is completed 
+INFO 2022-07-10 12:48:48,373 root Starting deletion of a new sub course
+INFO 2022-07-10 12:48:48,373 root Sub Course deletion process is completed 
+INFO 2022-07-10 12:48:48,373 root Registering the Student
+INFO 2022-07-10 12:48:48,373 root Student Registration process is completed 
+INFO 2022-07-10 12:48:48,388 root Updating the Mobile number of Student
+INFO 2022-07-10 12:48:48,388 root Mobile Number updation process is completed 
+INFO 2022-07-10 12:48:58,928 root Welcome Student
+INFO 2022-07-10 12:48:58,928 root fetching total count of Student
+INFO 2022-07-10 12:48:58,928 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 12:48:58,928 root Neuron is created 
+INFO 2022-07-10 12:48:58,928 root Cost determination started for a neuron
+INFO 2022-07-10 12:48:58,928 root Cost of neuron is returned now 
+INFO 2022-07-10 12:48:58,928 root Creating list of courses for an instructor
+INFO 2022-07-10 12:48:58,928 root Course list is created and returned 
+INFO 2022-07-10 12:48:58,928 root Cost determination started for a course
+INFO 2022-07-10 12:48:58,928 root Cost of course is returned now 
+INFO 2022-07-10 12:48:58,928 root Starting registration of  an instructor
+INFO 2022-07-10 12:48:58,944 root Instructor registration process is done 
+INFO 2022-07-10 12:48:58,944 root Instructor skills is being updated
+INFO 2022-07-10 12:48:58,944 root Instructor skills are updated 
+INFO 2022-07-10 12:48:58,944 root Starting creation of a new sub course
+INFO 2022-07-10 12:48:58,944 root Sub Course registration process is completed 
+INFO 2022-07-10 12:48:58,944 root Starting counting of  sub courses
+INFO 2022-07-10 12:48:58,944 root Sub Course count process is completed 
+INFO 2022-07-10 12:48:58,944 root Starting deletion of a new sub course
+INFO 2022-07-10 12:48:58,944 root Sub Course deletion process is completed 
+INFO 2022-07-10 12:48:58,944 root Registering the Student
+INFO 2022-07-10 12:48:58,944 root Student Registration process is completed 
+INFO 2022-07-10 12:48:58,944 root Updating the Mobile number of Student
+INFO 2022-07-10 12:48:58,944 root Mobile Number updation process is completed 
+INFO 2022-07-10 12:48:58,944 root Starting registration of  an instructor
+INFO 2022-07-10 12:48:58,944 root Instructor registration process is done 
+INFO 2022-07-10 12:48:58,944 root Starting the affiliation process
+INFO 2022-07-10 12:48:58,944 root Affiliation verified 
+INFO 2022-07-10 12:48:58,944 root Updating the bank details
+INFO 2022-07-10 12:48:58,944 root Account updated successfully 
+INFO 2022-07-10 12:48:58,944 root Creating the blog
+INFO 2022-07-10 12:48:58,944 root Blog is stored successfully 
+INFO 2022-07-10 12:48:58,944 root Fetching the blog types
+INFO 2022-07-10 12:48:58,944 root Blog types list is prepared 
+INFO 2022-07-10 12:48:58,944 root Starting the searching of jobs for given job type
+INFO 2022-07-10 12:48:58,944 root List generated for given job type 
+INFO 2022-07-10 12:48:58,944 root Storing the query
+INFO 2022-07-10 12:48:58,944 root Query created 
+INFO 2022-07-10 13:03:29,148 root Welcome Student
+INFO 2022-07-10 13:03:29,182 root fetching total count of Student
+INFO 2022-07-10 13:03:29,182 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 13:03:29,182 root Neuron is created 
+INFO 2022-07-10 13:03:29,182 root Cost determination started for a neuron
+INFO 2022-07-10 13:03:29,182 root Cost of neuron is returned now 
+INFO 2022-07-10 13:03:29,183 root Creating list of courses for an instructor
+INFO 2022-07-10 13:03:29,183 root Course list is created and returned 
+INFO 2022-07-10 13:03:29,183 root Cost determination started for a course
+INFO 2022-07-10 13:03:29,183 root Cost of course is returned now 
+INFO 2022-07-10 13:03:29,183 root Starting registration of  an instructor
+INFO 2022-07-10 13:03:29,183 root Instructor registration process is done 
+INFO 2022-07-10 13:03:29,183 root Instructor skills is being updated
+INFO 2022-07-10 13:03:29,183 root Instructor skills are updated 
+INFO 2022-07-10 13:03:29,184 root Starting creation of a new sub course
+INFO 2022-07-10 13:03:29,184 root Sub Course registration process is completed 
+INFO 2022-07-10 13:03:29,184 root Starting counting of  sub courses
+INFO 2022-07-10 13:03:29,184 root Sub Course count process is completed 
+INFO 2022-07-10 13:03:29,184 root Starting deletion of a new sub course
+INFO 2022-07-10 13:03:29,184 root Sub Course deletion process is completed 
+INFO 2022-07-10 13:03:29,184 root Registering the Student
+INFO 2022-07-10 13:03:29,185 root Student Registration process is completed 
+INFO 2022-07-10 13:03:29,185 root Updating the Mobile number of Student
+INFO 2022-07-10 13:03:29,185 root Mobile Number updation process is completed 
+INFO 2022-07-10 13:03:29,185 root Starting registration of  an instructor
+INFO 2022-07-10 13:03:29,185 root Instructor registration process is done 
+INFO 2022-07-10 13:03:29,185 root Starting the affiliation process
+INFO 2022-07-10 13:03:29,185 root Affiliation verified 
+INFO 2022-07-10 13:03:29,186 root Updating the bank details
+INFO 2022-07-10 13:03:29,186 root Account updated successfully 
+INFO 2022-07-10 13:03:29,186 root Welcome Student
+INFO 2022-07-10 13:03:29,186 root Creating the blog
+INFO 2022-07-10 13:03:29,186 root Blog is stored successfully 
+INFO 2022-07-10 13:03:29,186 root Fetching the blog types
+INFO 2022-07-10 13:03:29,186 root Blog types list is prepared 
+INFO 2022-07-10 13:03:29,187 root Starting the searching of jobs for given job type
+INFO 2022-07-10 13:03:29,187 root List generated for given job type 
+INFO 2022-07-10 13:03:29,187 root Storing the query
+INFO 2022-07-10 13:03:29,187 root Query created 
+INFO 2022-07-10 13:08:03,654 root Welcome Student
+INFO 2022-07-10 13:08:03,654 root fetching total count of Student
+INFO 2022-07-10 13:08:03,654 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 13:08:03,654 root Neuron is created 
+INFO 2022-07-10 13:08:03,654 root Cost determination started for a neuron
+INFO 2022-07-10 13:08:03,655 root Cost of neuron is returned now 
+INFO 2022-07-10 13:08:03,655 root Creating list of courses for an instructor
+INFO 2022-07-10 13:08:03,655 root Course list is created and returned 
+INFO 2022-07-10 13:08:03,655 root Cost determination started for a course
+INFO 2022-07-10 13:08:03,655 root Cost of course is returned now 
+INFO 2022-07-10 13:08:03,655 root Starting registration of  an instructor
+INFO 2022-07-10 13:08:03,656 root Instructor registration process is done 
+INFO 2022-07-10 13:08:03,656 root Instructor skills is being updated
+INFO 2022-07-10 13:08:03,656 root Instructor skills are updated 
+INFO 2022-07-10 13:08:03,656 root Starting creation of a new sub course
+INFO 2022-07-10 13:08:03,657 root Sub Course registration process is completed 
+INFO 2022-07-10 13:08:03,657 root Starting counting of  sub courses
+INFO 2022-07-10 13:08:03,657 root Sub Course count process is completed 
+INFO 2022-07-10 13:08:03,657 root Starting deletion of a new sub course
+INFO 2022-07-10 13:08:03,657 root Sub Course deletion process is completed 
+INFO 2022-07-10 13:08:03,657 root Registering the Student
+INFO 2022-07-10 13:08:03,657 root Student Registration process is completed 
+INFO 2022-07-10 13:08:03,658 root Updating the Mobile number of Student
+INFO 2022-07-10 13:08:03,658 root Mobile Number updation process is completed 
+INFO 2022-07-10 13:08:03,658 root Starting registration of  an instructor
+INFO 2022-07-10 13:08:03,658 root Instructor registration process is done 
+INFO 2022-07-10 13:08:03,659 root Starting the affiliation process
+INFO 2022-07-10 13:08:03,659 root Affiliation verified 
+INFO 2022-07-10 13:08:03,659 root Updating the bank details
+INFO 2022-07-10 13:08:03,659 root Account updated successfully 
+INFO 2022-07-10 13:08:03,659 root Creating the blog
+INFO 2022-07-10 13:08:03,660 root Blog is stored successfully 
+INFO 2022-07-10 13:08:03,660 root Welcome Student
+INFO 2022-07-10 13:08:03,660 root Creating the blog
+INFO 2022-07-10 13:08:03,660 root Blog is stored successfully 
+INFO 2022-07-10 13:08:03,660 root Fetching the blog types
+INFO 2022-07-10 13:08:03,660 root Blog types list is prepared 
+INFO 2022-07-10 13:08:03,661 root Starting the searching of jobs for given job type
+INFO 2022-07-10 13:08:03,661 root List generated for given job type 
+INFO 2022-07-10 13:08:03,661 root Storing the query
+INFO 2022-07-10 13:08:03,661 root Query created 
+INFO 2022-07-10 13:18:06,558 root Welcome Student
+INFO 2022-07-10 13:18:06,559 root fetching total count of Student
+INFO 2022-07-10 13:18:06,559 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 13:18:06,559 root Neuron is created 
+INFO 2022-07-10 13:18:06,559 root Cost determination started for a neuron
+INFO 2022-07-10 13:18:06,560 root Cost of neuron is returned now 
+INFO 2022-07-10 13:18:06,560 root Creating list of courses for an instructor
+INFO 2022-07-10 13:18:06,560 root Course list is created and returned 
+INFO 2022-07-10 13:18:06,560 root Cost determination started for a course
+INFO 2022-07-10 13:18:06,560 root Cost of course is returned now 
+INFO 2022-07-10 13:18:06,560 root Starting registration of  an instructor
+INFO 2022-07-10 13:18:06,560 root Instructor registration process is done 
+INFO 2022-07-10 13:18:06,560 root Instructor skills is being updated
+INFO 2022-07-10 13:18:06,561 root Instructor skills are updated 
+INFO 2022-07-10 13:18:06,561 root Starting creation of a new sub course
+INFO 2022-07-10 13:18:06,561 root Sub Course registration process is completed 
+INFO 2022-07-10 13:18:06,561 root Starting counting of  sub courses
+INFO 2022-07-10 13:18:06,561 root Sub Course count process is completed 
+INFO 2022-07-10 13:18:06,561 root Starting deletion of a new sub course
+INFO 2022-07-10 13:18:06,562 root Sub Course deletion process is completed 
+INFO 2022-07-10 13:18:06,562 root Registering the Student
+INFO 2022-07-10 13:18:06,562 root Student Registration process is completed 
+INFO 2022-07-10 13:18:06,562 root Updating the Mobile number of Student
+INFO 2022-07-10 13:18:06,562 root Mobile Number updation process is completed 
+INFO 2022-07-10 13:18:06,562 root Starting registration of  an instructor
+INFO 2022-07-10 13:18:06,562 root Instructor registration process is done 
+INFO 2022-07-10 13:18:06,563 root Starting the affiliation process
+INFO 2022-07-10 13:18:06,563 root Affiliation verified 
+INFO 2022-07-10 13:18:06,563 root Updating the bank details
+INFO 2022-07-10 13:18:06,563 root Account updated successfully 
+INFO 2022-07-10 13:18:06,563 root Verifying the techneuron languages
+INFO 2022-07-10 13:18:06,563 root Returning the course kanguages
+INFO 2022-07-10 13:18:06,563 root List created for languages 
+INFO 2022-07-10 13:18:06,564 root Creating list of courses for an instructor
+INFO 2022-07-10 13:18:06,564 root Course list is created and returned 
+INFO 2022-07-10 13:18:06,564 root Languages verified 
+INFO 2022-07-10 13:18:06,564 root Creating the blog
+INFO 2022-07-10 13:18:06,564 root Blog is stored successfully 
+INFO 2022-07-10 13:18:06,564 root Welcome Student
+INFO 2022-07-10 13:18:06,564 root Creating the blog
+INFO 2022-07-10 13:18:06,564 root Blog is stored successfully 
+INFO 2022-07-10 13:18:06,564 root Fetching the blog types
+INFO 2022-07-10 13:18:06,565 root Blog types list is prepared 
+INFO 2022-07-10 13:18:06,565 root Starting the searching of jobs for given job type
+INFO 2022-07-10 13:18:06,565 root List generated for given job type 
+INFO 2022-07-10 13:18:06,565 root Storing the query
+INFO 2022-07-10 13:18:06,565 root Query created 
+INFO 2022-07-10 14:10:54,007 root returning the profile id
+INFO 2022-07-10 14:10:54,026 root returning the profile name
+INFO 2022-07-10 14:14:28,570 root returning the profile id
+INFO 2022-07-10 14:14:28,570 root returning the profile name
+INFO 2022-07-10 14:14:28,570 root returning the subtopics list
+INFO 2022-07-10 14:23:20,978 root returning the profile id
+INFO 2022-07-10 14:23:20,978 root returning the profile name
+INFO 2022-07-10 14:23:20,978 root returning the subtopics list
+INFO 2022-07-10 14:23:38,041 root returning the profile id
+INFO 2022-07-10 14:23:38,042 root returning the profile name
+INFO 2022-07-10 14:23:38,042 root returning the subtopics list
+INFO 2022-07-10 14:23:59,789 root returning the profile id
+INFO 2022-07-10 14:23:59,790 root returning the profile name
+INFO 2022-07-10 14:23:59,790 root returning the subtopics list
+INFO 2022-07-10 14:24:18,797 root returning the profile id
+INFO 2022-07-10 14:24:18,797 root returning the profile name
+INFO 2022-07-10 14:24:18,797 root returning the subtopics list
+INFO 2022-07-10 14:24:42,704 root returning the profile id
+INFO 2022-07-10 14:24:42,705 root returning the profile name
+INFO 2022-07-10 14:24:42,705 root returning the subtopics list
+INFO 2022-07-10 14:25:14,869 root returning the profile id
+INFO 2022-07-10 14:25:14,870 root returning the profile name
+INFO 2022-07-10 14:25:14,870 root returning the subtopics list
+INFO 2022-07-10 14:25:36,692 root returning the profile id
+INFO 2022-07-10 14:25:36,693 root returning the profile name
+INFO 2022-07-10 14:25:36,693 root returning the subtopics list
+INFO 2022-07-10 14:25:36,693 root returning the instructor scores
+ERROR 2022-07-10 14:25:36,694 root Error while returning the instruction score
+INFO 2022-07-10 14:25:36,694 root returning the instructor list
+ERROR 2022-07-10 14:25:36,694 root Error while returning the instruction list
+INFO 2022-07-10 14:26:25,031 root returning the profile id
+INFO 2022-07-10 14:26:25,031 root returning the profile name
+INFO 2022-07-10 14:26:25,031 root returning the subtopics list
+INFO 2022-07-10 14:26:25,032 root returning the instructor scores
+INFO 2022-07-10 14:26:25,032 root returning the instructor list
+INFO 2022-07-10 14:26:39,593 root returning the profile id
+INFO 2022-07-10 14:26:39,593 root returning the profile name
+INFO 2022-07-10 14:26:39,594 root returning the subtopics list
+INFO 2022-07-10 14:26:51,351 root returning the profile id
+INFO 2022-07-10 14:26:51,351 root returning the profile name
+INFO 2022-07-10 14:26:51,352 root returning the subtopics list
+INFO 2022-07-10 14:26:51,352 root returning the instructor scores
+INFO 2022-07-10 14:26:51,352 root returning the instructor list
+INFO 2022-07-10 14:28:41,681 root returning the profile id
+INFO 2022-07-10 14:28:41,681 root returning the profile name
+INFO 2022-07-10 14:28:41,681 root returning the subtopics list
+INFO 2022-07-10 14:28:41,681 root returning the instructor scores
+INFO 2022-07-10 14:28:41,682 root returning the instructor list
+INFO 2022-07-10 14:29:34,314 root returning the profile id
+INFO 2022-07-10 14:29:34,314 root returning the profile name
+INFO 2022-07-10 14:29:34,315 root returning the subtopics list
+INFO 2022-07-10 14:29:34,315 root returning the instructor scores
+INFO 2022-07-10 14:29:34,315 root returning the instructor list
+INFO 2022-07-10 14:29:50,397 root returning the profile id
+INFO 2022-07-10 14:29:50,397 root returning the profile name
+INFO 2022-07-10 14:29:50,398 root returning the subtopics list
+INFO 2022-07-10 14:29:50,398 root returning the instructor scores
+INFO 2022-07-10 14:29:50,398 root returning the instructor list
+INFO 2022-07-10 14:29:50,398 root updating the course name
+INFO 2022-07-10 14:30:16,432 root returning the profile id
+INFO 2022-07-10 14:30:16,432 root returning the profile name
+INFO 2022-07-10 14:30:16,433 root returning the subtopics list
+INFO 2022-07-10 14:30:16,434 root returning the instructor scores
+INFO 2022-07-10 14:30:16,434 root returning the instructor list
+INFO 2022-07-10 14:30:16,435 root updating the course name
+INFO 2022-07-10 14:31:42,513 root returning the profile id
+INFO 2022-07-10 14:31:42,514 root returning the profile name
+INFO 2022-07-10 14:31:42,514 root returning the subtopics list
+INFO 2022-07-10 14:31:42,514 root returning the instructor scores
+INFO 2022-07-10 14:31:42,514 root returning the instructor list
+INFO 2022-07-10 14:31:42,515 root updating the course name
+INFO 2022-07-10 14:32:02,480 root returning the profile id
+INFO 2022-07-10 14:32:02,481 root returning the profile name
+INFO 2022-07-10 14:32:02,481 root returning the subtopics list
+INFO 2022-07-10 14:32:02,481 root returning the instructor scores
+INFO 2022-07-10 14:32:02,481 root returning the instructor list
+INFO 2022-07-10 14:32:02,482 root updating the course name
+INFO 2022-07-10 14:32:02,482 root returning the enrolled courses
+INFO 2022-07-10 14:32:02,482 root returning the count of enrolled courses
+INFO 2022-07-10 14:32:34,929 root returning the profile id
+INFO 2022-07-10 14:32:34,930 root returning the profile name
+INFO 2022-07-10 14:32:34,930 root returning the subtopics list
+INFO 2022-07-10 14:32:34,930 root returning the instructor scores
+INFO 2022-07-10 14:32:34,930 root returning the instructor list
+INFO 2022-07-10 14:32:34,931 root updating the course name
+INFO 2022-07-10 14:32:34,931 root returning the enrolled courses
+INFO 2022-07-10 14:32:34,931 root returning the count of enrolled courses
+INFO 2022-07-10 14:32:34,931 root returning the count of enrolled courses
+INFO 2022-07-10 14:33:01,280 root returning the profile id
+INFO 2022-07-10 14:33:01,289 root returning the profile name
+INFO 2022-07-10 14:33:01,291 root returning the subtopics list
+INFO 2022-07-10 14:33:01,291 root returning the instructor scores
+INFO 2022-07-10 14:33:01,292 root returning the instructor list
+INFO 2022-07-10 14:33:01,293 root updating the course name
+INFO 2022-07-10 14:33:01,294 root returning the enrolled courses
+INFO 2022-07-10 14:33:01,294 root returning the count of enrolled courses
+INFO 2022-07-10 14:33:01,295 root returning the count of enrolled courses
+INFO 2022-07-10 14:33:02,010 root returning the profile id
+INFO 2022-07-10 14:33:02,011 root returning the profile name
+INFO 2022-07-10 14:33:02,011 root returning the subtopics list
+INFO 2022-07-10 14:33:02,012 root returning the instructor scores
+INFO 2022-07-10 14:33:02,012 root returning the instructor list
+INFO 2022-07-10 14:33:02,012 root updating the course name
+INFO 2022-07-10 14:33:02,013 root returning the enrolled courses
+INFO 2022-07-10 14:33:02,014 root returning the count of enrolled courses
+INFO 2022-07-10 14:33:02,014 root returning the count of enrolled courses
+INFO 2022-07-10 14:35:04,691 root returning the profile id
+INFO 2022-07-10 14:35:04,691 root returning the profile name
+INFO 2022-07-10 14:35:04,691 root returning the subtopics list
+INFO 2022-07-10 14:35:04,692 root returning the instructor scores
+INFO 2022-07-10 14:35:04,692 root returning the instructor list
+INFO 2022-07-10 14:35:04,692 root updating the course name
+INFO 2022-07-10 14:35:04,692 root returning the enrolled courses
+INFO 2022-07-10 14:35:04,692 root returning the count of enrolled courses
+INFO 2022-07-10 14:35:04,692 root returning the count of enrolled courses
+INFO 2022-07-10 14:35:04,693 root Starting registration of  an instructor
+INFO 2022-07-10 14:35:04,693 root Instructor registration process is done 
+INFO 2022-07-10 14:35:36,823 root returning the profile id
+INFO 2022-07-10 14:35:36,823 root returning the profile name
+INFO 2022-07-10 14:35:36,824 root returning the subtopics list
+INFO 2022-07-10 14:35:36,824 root returning the instructor scores
+INFO 2022-07-10 14:35:36,824 root returning the instructor list
+INFO 2022-07-10 14:35:36,825 root updating the course name
+INFO 2022-07-10 14:35:36,825 root returning the enrolled courses
+INFO 2022-07-10 14:35:36,825 root returning the count of enrolled courses
+INFO 2022-07-10 14:35:36,825 root returning the count of enrolled courses
+INFO 2022-07-10 14:35:36,825 root Starting registration of  an instructor
+INFO 2022-07-10 14:35:36,825 root Instructor registration process is done 
+INFO 2022-07-10 14:36:23,850 root returning the profile id
+INFO 2022-07-10 14:36:23,850 root returning the profile name
+INFO 2022-07-10 14:36:23,851 root returning the subtopics list
+INFO 2022-07-10 14:36:23,852 root returning the instructor scores
+INFO 2022-07-10 14:36:23,852 root returning the instructor list
+INFO 2022-07-10 14:36:23,853 root updating the course name
+INFO 2022-07-10 14:36:23,853 root returning the enrolled courses
+INFO 2022-07-10 14:36:23,853 root returning the count of enrolled courses
+INFO 2022-07-10 14:36:23,853 root returning the count of enrolled courses
+INFO 2022-07-10 14:36:23,854 root Starting registration of  an instructor
+INFO 2022-07-10 14:36:23,854 root Instructor registration process is done 
+INFO 2022-07-10 14:37:10,808 root returning the profile id
+INFO 2022-07-10 14:37:10,809 root returning the profile name
+INFO 2022-07-10 14:37:10,809 root returning the subtopics list
+INFO 2022-07-10 14:37:10,810 root returning the instructor scores
+INFO 2022-07-10 14:37:10,810 root returning the instructor list
+INFO 2022-07-10 14:37:10,810 root updating the course name
+INFO 2022-07-10 14:37:10,811 root returning the enrolled courses
+INFO 2022-07-10 14:37:10,811 root returning the count of enrolled courses
+INFO 2022-07-10 14:37:10,811 root returning the count of enrolled courses
+INFO 2022-07-10 14:37:10,811 root Starting registration of  an instructor
+INFO 2022-07-10 14:37:10,811 root Instructor registration process is done 
+INFO 2022-07-10 14:39:03,388 root returning the profile id
+INFO 2022-07-10 14:39:03,388 root returning the profile name
+INFO 2022-07-10 14:39:03,389 root returning the subtopics list
+INFO 2022-07-10 14:39:03,389 root returning the instructor scores
+INFO 2022-07-10 14:39:03,390 root returning the instructor list
+INFO 2022-07-10 14:39:03,391 root updating the course name
+INFO 2022-07-10 14:39:03,392 root returning the enrolled courses
+INFO 2022-07-10 14:39:03,392 root returning the count of enrolled courses
+INFO 2022-07-10 14:39:03,392 root returning the count of enrolled courses
+INFO 2022-07-10 14:39:03,393 root Starting registration of  an instructor
+INFO 2022-07-10 14:39:03,393 root Instructor registration process is done 
+INFO 2022-07-10 14:39:54,797 root returning the profile id
+INFO 2022-07-10 14:39:54,797 root returning the profile name
+INFO 2022-07-10 14:39:54,797 root returning the subtopics list
+INFO 2022-07-10 14:39:54,798 root returning the instructor scores
+INFO 2022-07-10 14:39:54,798 root returning the instructor list
+INFO 2022-07-10 14:39:54,798 root updating the course name
+INFO 2022-07-10 14:39:54,799 root returning the enrolled courses
+INFO 2022-07-10 14:39:54,799 root returning the count of enrolled courses
+INFO 2022-07-10 14:39:54,799 root returning the count of enrolled courses
+INFO 2022-07-10 14:39:54,800 root Starting registration of  an instructor
+INFO 2022-07-10 14:39:54,801 root Instructor registration process is done 
+INFO 2022-07-10 14:39:54,801 root Instructor Age is being updated
+INFO 2022-07-10 14:39:54,801 root Instructor age is updated 
+INFO 2022-07-10 14:41:35,479 root returning the profile id
+INFO 2022-07-10 14:41:35,479 root returning the profile name
+INFO 2022-07-10 14:41:35,480 root returning the subtopics list
+INFO 2022-07-10 14:41:35,480 root returning the instructor scores
+INFO 2022-07-10 14:41:35,480 root returning the instructor list
+INFO 2022-07-10 14:41:35,481 root updating the course name
+INFO 2022-07-10 14:41:35,481 root returning the enrolled courses
+INFO 2022-07-10 14:41:35,481 root returning the count of enrolled courses
+INFO 2022-07-10 14:41:35,481 root returning the count of enrolled courses
+INFO 2022-07-10 14:41:35,481 root Starting registration of  an instructor
+INFO 2022-07-10 14:41:35,481 root Instructor registration process is done 
+INFO 2022-07-10 14:42:07,261 root returning the profile id
+INFO 2022-07-10 14:42:07,262 root returning the profile name
+INFO 2022-07-10 14:42:07,262 root returning the subtopics list
+INFO 2022-07-10 14:42:07,262 root returning the instructor scores
+INFO 2022-07-10 14:42:07,262 root returning the instructor list
+INFO 2022-07-10 14:42:07,263 root updating the course name
+INFO 2022-07-10 14:42:07,263 root returning the enrolled courses
+INFO 2022-07-10 14:42:07,263 root returning the count of enrolled courses
+INFO 2022-07-10 14:42:07,263 root returning the count of enrolled courses
+INFO 2022-07-10 14:42:07,263 root Starting registration of  an instructor
+INFO 2022-07-10 14:42:07,263 root Instructor registration process is done 
+INFO 2022-07-10 14:42:07,264 root Instructor Age is being updated
+INFO 2022-07-10 14:42:07,264 root Instructor age is updated 
+INFO 2022-07-10 14:42:44,033 root returning the profile id
+INFO 2022-07-10 14:42:44,033 root returning the profile name
+INFO 2022-07-10 14:42:44,033 root returning the subtopics list
+INFO 2022-07-10 14:42:44,034 root returning the instructor scores
+INFO 2022-07-10 14:42:44,034 root returning the instructor list
+INFO 2022-07-10 14:42:44,034 root updating the course name
+INFO 2022-07-10 14:42:44,034 root returning the enrolled courses
+INFO 2022-07-10 14:42:44,035 root returning the count of enrolled courses
+INFO 2022-07-10 14:42:44,035 root returning the count of enrolled courses
+INFO 2022-07-10 14:42:44,035 root Starting registration of  an instructor
+INFO 2022-07-10 14:42:44,035 root Instructor registration process is done 
+INFO 2022-07-10 14:42:44,035 root Instructor Age is being updated
+INFO 2022-07-10 14:42:44,035 root Instructor age is updated 
+INFO 2022-07-10 14:44:33,365 root returning the profile id
+INFO 2022-07-10 14:44:33,366 root returning the profile name
+INFO 2022-07-10 14:44:33,366 root returning the subtopics list
+INFO 2022-07-10 14:44:33,366 root returning the instructor scores
+INFO 2022-07-10 14:44:33,366 root returning the instructor list
+INFO 2022-07-10 14:44:33,366 root updating the course name
+INFO 2022-07-10 14:44:33,367 root returning the enrolled courses
+INFO 2022-07-10 14:44:33,367 root returning the count of enrolled courses
+INFO 2022-07-10 14:44:33,367 root returning the count of enrolled courses
+INFO 2022-07-10 14:44:33,367 root Starting registration of  an instructor
+INFO 2022-07-10 14:44:33,367 root Instructor registration process is done 
+INFO 2022-07-10 14:44:33,367 root Instructor Age is being updated
+INFO 2022-07-10 14:44:33,367 root Instructor age is updated 
+INFO 2022-07-10 14:45:15,074 root returning the profile id
+INFO 2022-07-10 14:45:15,075 root returning the profile name
+INFO 2022-07-10 14:45:15,075 root returning the subtopics list
+INFO 2022-07-10 14:45:15,075 root returning the instructor scores
+INFO 2022-07-10 14:45:15,075 root returning the instructor list
+INFO 2022-07-10 14:45:15,076 root updating the course name
+INFO 2022-07-10 14:45:15,076 root returning the enrolled courses
+INFO 2022-07-10 14:45:15,076 root returning the count of enrolled courses
+INFO 2022-07-10 14:45:15,077 root returning the count of enrolled courses
+INFO 2022-07-10 14:45:15,077 root Starting registration of  an instructor
+INFO 2022-07-10 14:45:15,077 root Instructor registration process is done 
+INFO 2022-07-10 14:45:55,935 root returning the profile id
+INFO 2022-07-10 14:45:55,935 root returning the profile name
+INFO 2022-07-10 14:45:55,935 root returning the subtopics list
+INFO 2022-07-10 14:45:55,935 root returning the instructor scores
+INFO 2022-07-10 14:45:55,936 root returning the instructor list
+INFO 2022-07-10 14:45:55,936 root updating the course name
+INFO 2022-07-10 14:45:55,936 root returning the enrolled courses
+INFO 2022-07-10 14:45:55,936 root returning the count of enrolled courses
+INFO 2022-07-10 14:45:55,936 root returning the count of enrolled courses
+INFO 2022-07-10 14:45:55,936 root Starting registration of  an instructor
+INFO 2022-07-10 14:45:55,937 root Instructor registration process is done 
+INFO 2022-07-10 14:45:55,937 root Instructor Age is being updated
+INFO 2022-07-10 14:45:55,937 root Instructor age is updated 
+INFO 2022-07-10 14:47:53,123 root returning the profile id
+INFO 2022-07-10 14:47:53,124 root returning the profile name
+INFO 2022-07-10 14:47:53,124 root returning the subtopics list
+INFO 2022-07-10 14:47:53,124 root returning the instructor scores
+INFO 2022-07-10 14:47:53,125 root returning the instructor list
+INFO 2022-07-10 14:47:53,125 root updating the course name
+INFO 2022-07-10 14:47:53,125 root returning the enrolled courses
+INFO 2022-07-10 14:47:53,125 root returning the count of enrolled courses
+INFO 2022-07-10 14:47:53,126 root returning the count of enrolled courses
+INFO 2022-07-10 14:47:53,126 root Starting registration of  an instructor
+INFO 2022-07-10 14:47:53,126 root Instructor registration process is done 
+INFO 2022-07-10 14:47:53,126 root Instructor count is being updated
+ERROR 2022-07-10 14:47:53,126 root Updating Instructor count process failed
+INFO 2022-07-10 14:47:53,127 root Instructor count is being updated
+ERROR 2022-07-10 14:47:53,127 root Updating Instructor count process failed
+INFO 2022-07-10 14:48:04,912 root returning the profile id
+INFO 2022-07-10 14:48:04,912 root returning the profile name
+INFO 2022-07-10 14:48:04,913 root returning the subtopics list
+INFO 2022-07-10 14:48:04,913 root returning the instructor scores
+INFO 2022-07-10 14:48:04,914 root returning the instructor list
+INFO 2022-07-10 14:48:04,914 root updating the course name
+INFO 2022-07-10 14:48:04,914 root returning the enrolled courses
+INFO 2022-07-10 14:48:04,915 root returning the count of enrolled courses
+INFO 2022-07-10 14:48:04,915 root returning the count of enrolled courses
+INFO 2022-07-10 14:48:04,915 root Starting registration of  an instructor
+INFO 2022-07-10 14:48:04,915 root Instructor registration process is done 
+INFO 2022-07-10 14:48:04,915 root Instructor count is being updated
+ERROR 2022-07-10 14:48:04,916 root Updating Instructor count process failed
+INFO 2022-07-10 14:48:04,916 root Instructor count is being updated
+ERROR 2022-07-10 14:48:04,916 root Updating Instructor count process failed
+INFO 2022-07-10 14:48:50,687 root returning the profile id
+INFO 2022-07-10 14:48:50,688 root returning the profile name
+INFO 2022-07-10 14:48:50,688 root returning the subtopics list
+INFO 2022-07-10 14:48:50,688 root returning the instructor scores
+INFO 2022-07-10 14:48:50,688 root returning the instructor list
+INFO 2022-07-10 14:48:50,689 root updating the course name
+INFO 2022-07-10 14:48:50,689 root returning the enrolled courses
+INFO 2022-07-10 14:48:50,689 root returning the count of enrolled courses
+INFO 2022-07-10 14:48:50,689 root returning the count of enrolled courses
+INFO 2022-07-10 14:48:50,690 root Starting registration of  an instructor
+INFO 2022-07-10 14:48:50,690 root Instructor registration process is done 
+INFO 2022-07-10 14:48:50,690 root Instructor count is being updated
+INFO 2022-07-10 14:48:50,690 root Instructor count is updated 
+INFO 2022-07-10 14:48:50,690 root Instructor count is being updated
+INFO 2022-07-10 14:48:50,690 root Instructor count is updated 
+INFO 2022-07-10 14:51:25,501 root returning the profile id
+INFO 2022-07-10 14:51:25,501 root returning the profile name
+INFO 2022-07-10 14:51:25,502 root returning the subtopics list
+INFO 2022-07-10 14:51:25,502 root returning the instructor scores
+INFO 2022-07-10 14:51:25,502 root returning the instructor list
+INFO 2022-07-10 14:51:25,503 root updating the course name
+INFO 2022-07-10 14:51:25,503 root returning the enrolled courses
+INFO 2022-07-10 14:51:25,504 root returning the count of enrolled courses
+INFO 2022-07-10 14:51:25,504 root returning the count of enrolled courses
+INFO 2022-07-10 14:51:25,504 root Starting registration of  an instructor
+INFO 2022-07-10 14:51:25,504 root Instructor registration process is done 
+INFO 2022-07-10 14:51:25,504 root Instructor count is being updated
+INFO 2022-07-10 14:51:25,504 root Instructor count is updated 
+INFO 2022-07-10 14:51:25,504 root Instructor count is being updated
+INFO 2022-07-10 14:51:25,504 root Instructor count is updated 
+INFO 2022-07-10 14:51:25,505 root Starting creation of a new sub course
+INFO 2022-07-10 14:51:25,505 root Sub Course registration process is completed 
+INFO 2022-07-10 14:52:28,789 root returning the profile id
+INFO 2022-07-10 14:52:28,789 root returning the profile name
+INFO 2022-07-10 14:52:28,789 root returning the subtopics list
+INFO 2022-07-10 14:52:28,789 root returning the instructor scores
+INFO 2022-07-10 14:52:28,790 root returning the instructor list
+INFO 2022-07-10 14:52:28,790 root updating the course name
+INFO 2022-07-10 14:52:28,790 root returning the enrolled courses
+INFO 2022-07-10 14:52:28,790 root returning the count of enrolled courses
+INFO 2022-07-10 14:52:28,790 root returning the count of enrolled courses
+INFO 2022-07-10 14:52:28,790 root Starting registration of  an instructor
+INFO 2022-07-10 14:52:28,791 root Instructor registration process is done 
+INFO 2022-07-10 14:52:28,791 root Instructor count is being updated
+INFO 2022-07-10 14:52:28,791 root Instructor count is updated 
+INFO 2022-07-10 14:52:28,791 root Instructor count is being updated
+INFO 2022-07-10 14:52:28,791 root Instructor count is updated 
+INFO 2022-07-10 14:52:28,791 root Starting creation of a new sub course
+INFO 2022-07-10 14:52:28,791 root Sub Course registration process is completed 
+INFO 2022-07-10 14:58:18,735 root Welcome Student
+INFO 2022-07-10 14:58:18,735 root fetching total count of Student
+INFO 2022-07-10 14:58:18,735 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 14:58:18,735 root Neuron is created 
+INFO 2022-07-10 14:58:18,735 root Cost determination started for a neuron
+INFO 2022-07-10 14:58:18,736 root Cost of neuron is returned now 
+INFO 2022-07-10 14:58:18,736 root Creating list of courses for an instructor in instructor 
+INFO 2022-07-10 14:58:18,736 root Course instructors list  is created and returned 
+INFO 2022-07-10 14:58:18,736 root Cost determination started for a course
+INFO 2022-07-10 14:58:18,736 root Cost of course is returned now 
+INFO 2022-07-10 14:58:18,736 root Starting registration of  an instructor
+INFO 2022-07-10 14:58:18,736 root Instructor registration process is done 
+INFO 2022-07-10 14:58:18,736 root Instructor skills is being updated
+INFO 2022-07-10 14:58:18,736 root Instructor skills are updated 
+INFO 2022-07-10 14:58:18,737 root Starting creation of a new sub course
+INFO 2022-07-10 14:58:18,737 root Sub Course registration process is completed 
+INFO 2022-07-10 14:58:18,737 root Starting counting of  sub courses
+INFO 2022-07-10 14:58:18,737 root Sub Course count process is completed 
+INFO 2022-07-10 14:58:18,737 root Starting deletion of a new sub course
+INFO 2022-07-10 14:58:18,737 root Sub Course deletion process is completed 
+INFO 2022-07-10 14:58:18,737 root Registering the Student
+INFO 2022-07-10 14:58:18,737 root Student Registration process is completed 
+INFO 2022-07-10 14:58:18,737 root Updating the Mobile number of Student
+INFO 2022-07-10 14:58:18,737 root Mobile Number updation process is completed 
+INFO 2022-07-10 14:58:18,738 root Starting registration of  an instructor
+INFO 2022-07-10 14:58:18,738 root Instructor registration process is done 
+INFO 2022-07-10 14:58:18,738 root Starting the affiliation process
+INFO 2022-07-10 14:58:18,738 root Affiliation verified 
+INFO 2022-07-10 14:58:18,739 root Updating the bank details
+INFO 2022-07-10 14:58:18,739 root Account updated successfully 
+INFO 2022-07-10 14:58:18,739 root Verifying the techneuron languages
+INFO 2022-07-10 14:58:18,739 root Returning the course kanguages
+INFO 2022-07-10 14:58:18,740 root List created for languages 
+INFO 2022-07-10 14:58:18,740 root Creating list of courses for an instructor
+INFO 2022-07-10 14:58:18,740 root Course list is created and returned 
+INFO 2022-07-10 14:58:18,740 root Languages verified 
+INFO 2022-07-10 14:58:18,740 root Creating the blog
+INFO 2022-07-10 14:58:18,740 root Blog is stored successfully 
+INFO 2022-07-10 14:58:18,740 root Welcome Student
+INFO 2022-07-10 14:58:18,741 root Creating the blog
+INFO 2022-07-10 14:58:18,741 root Blog is stored successfully 
+INFO 2022-07-10 14:58:18,741 root Fetching the blog types
+INFO 2022-07-10 14:58:18,741 root Blog types list is prepared 
+INFO 2022-07-10 14:58:18,741 root Starting the searching of jobs for given job type
+INFO 2022-07-10 14:58:18,741 root List generated for given job type 
+INFO 2022-07-10 14:58:18,742 root Storing the query
+INFO 2022-07-10 14:58:18,742 root Query created 
+INFO 2022-07-10 14:59:44,741 root Welcome Student
+INFO 2022-07-10 14:59:44,742 root fetching total count of Student
+INFO 2022-07-10 14:59:44,743 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 14:59:44,743 root Neuron is created 
+INFO 2022-07-10 14:59:44,743 root Cost determination started for a neuron
+INFO 2022-07-10 14:59:44,743 root Cost of neuron is returned now 
+INFO 2022-07-10 14:59:44,743 root Creating list of courses for an instructor in instructor 
+INFO 2022-07-10 14:59:44,744 root Course instructors list  is created and returned 
+INFO 2022-07-10 14:59:44,744 root Cost determination started for a course
+INFO 2022-07-10 14:59:44,744 root Cost of course is returned now 
+INFO 2022-07-10 14:59:44,744 root Starting registration of  an instructor
+INFO 2022-07-10 14:59:44,744 root Instructor registration process is done 
+INFO 2022-07-10 14:59:44,745 root Instructor skills is being updated
+INFO 2022-07-10 14:59:44,745 root Instructor skills are updated 
+INFO 2022-07-10 14:59:44,745 root Starting creation of a new sub course
+INFO 2022-07-10 14:59:44,746 root Sub Course registration process is completed 
+INFO 2022-07-10 14:59:44,746 root Starting counting of  sub courses for students
+INFO 2022-07-10 14:59:44,746 root Sub Course for students count process is completed 
+INFO 2022-07-10 14:59:44,746 root Starting deletion of a new sub course
+INFO 2022-07-10 14:59:44,747 root Sub Course deletion process is completed 
+INFO 2022-07-10 14:59:44,747 root Registering the Student
+INFO 2022-07-10 14:59:44,747 root Student Registration process is completed 
+INFO 2022-07-10 14:59:44,747 root Updating the Mobile number of Student
+INFO 2022-07-10 14:59:44,747 root Mobile Number updation process is completed 
+INFO 2022-07-10 14:59:44,748 root Starting registration of  an instructor
+INFO 2022-07-10 14:59:44,748 root Instructor registration process is done 
+INFO 2022-07-10 14:59:44,748 root Starting the affiliation process
+INFO 2022-07-10 14:59:44,748 root Affiliation verified 
+INFO 2022-07-10 14:59:44,748 root Updating the bank details
+INFO 2022-07-10 14:59:44,749 root Account updated successfully 
+INFO 2022-07-10 14:59:44,749 root Verifying the techneuron languages
+INFO 2022-07-10 14:59:44,750 root Returning the course kanguages
+INFO 2022-07-10 14:59:44,750 root List created for languages 
+INFO 2022-07-10 14:59:44,750 root Creating list of courses for an instructor
+INFO 2022-07-10 14:59:44,750 root Course list is created and returned 
+INFO 2022-07-10 14:59:44,750 root Languages verified 
+INFO 2022-07-10 14:59:44,750 root Creating the blog
+INFO 2022-07-10 14:59:44,751 root Blog is stored successfully 
+INFO 2022-07-10 14:59:44,751 root Welcome Student
+INFO 2022-07-10 14:59:44,751 root Creating the blog
+INFO 2022-07-10 14:59:44,751 root Blog is stored successfully 
+INFO 2022-07-10 14:59:44,751 root Fetching the blog types
+INFO 2022-07-10 14:59:44,752 root Blog types list is prepared 
+INFO 2022-07-10 14:59:44,752 root Starting the searching of jobs for given job type
+INFO 2022-07-10 14:59:44,752 root List generated for given job type 
+INFO 2022-07-10 14:59:44,752 root Storing the query
+INFO 2022-07-10 14:59:44,753 root Query created 
+INFO 2022-07-10 15:01:34,664 root Welcome Student
+INFO 2022-07-10 15:01:34,664 root fetching total count of Student
+INFO 2022-07-10 15:01:34,664 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 15:01:34,664 root Neuron is created 
+INFO 2022-07-10 15:01:34,664 root Cost determination started for a neuron
+INFO 2022-07-10 15:01:34,665 root Cost of neuron is returned now 
+INFO 2022-07-10 15:01:34,665 root Creating list of courses for an instructor in instructor 
+INFO 2022-07-10 15:01:34,665 root Course instructors list  is created and returned 
+INFO 2022-07-10 15:01:34,665 root Cost determination started for a course
+INFO 2022-07-10 15:01:34,665 root Cost of course is returned now 
+INFO 2022-07-10 15:01:34,665 root Starting registration of  an instructor
+INFO 2022-07-10 15:01:34,665 root Instructor registration process is done 
+INFO 2022-07-10 15:01:34,665 root Instructor skills is being updated
+INFO 2022-07-10 15:01:34,665 root Instructor skills are updated 
+INFO 2022-07-10 15:01:34,666 root Starting creation of a new sub course
+INFO 2022-07-10 15:01:34,666 root Sub Course registration process is completed 
+INFO 2022-07-10 15:01:34,666 root Starting counting of  sub courses for students
+INFO 2022-07-10 15:01:34,666 root Sub Course for students count process is completed 
+INFO 2022-07-10 15:01:34,666 root Starting deletion of a new sub course
+INFO 2022-07-10 15:01:34,666 root Sub Course deletion process is completed 
+INFO 2022-07-10 15:01:34,666 root Registering the Student
+INFO 2022-07-10 15:01:34,666 root Student Registration process is completed 
+INFO 2022-07-10 15:01:34,667 root Updating the Mobile number of Student
+INFO 2022-07-10 15:01:34,667 root Mobile Number updation process is completed 
+INFO 2022-07-10 15:01:34,667 root Starting registration of  an instructor
+INFO 2022-07-10 15:01:34,667 root Instructor registration process is done 
+INFO 2022-07-10 15:01:34,667 root Starting the affiliation process
+INFO 2022-07-10 15:01:34,667 root Affiliation verified 
+INFO 2022-07-10 15:01:34,667 root Updating the bank details
+INFO 2022-07-10 15:01:34,667 root Account updated successfully 
+INFO 2022-07-10 15:01:34,668 root Verifying the techneuron languages
+INFO 2022-07-10 15:01:34,668 root Returning the course kanguages
+INFO 2022-07-10 15:01:34,668 root List created for languages 
+INFO 2022-07-10 15:01:34,668 root Creating list of courses for an instructor
+INFO 2022-07-10 15:01:34,668 root Course list is created and returned 
+INFO 2022-07-10 15:01:34,668 root Languages verified 
+INFO 2022-07-10 15:01:34,668 root Creating the blog
+INFO 2022-07-10 15:01:34,668 root Blog is stored successfully 
+INFO 2022-07-10 15:01:34,668 root Welcome Student
+INFO 2022-07-10 15:01:34,669 root Creating the blog
+INFO 2022-07-10 15:01:34,669 root Blog is stored successfully 
+INFO 2022-07-10 15:01:34,669 root Fetching the blog types
+INFO 2022-07-10 15:01:34,669 root Blog types list is prepared 
+INFO 2022-07-10 15:01:34,669 root Starting the searching of jobs for given job type
+INFO 2022-07-10 15:01:34,669 root List generated for given job type 
+INFO 2022-07-10 15:01:34,669 root Storing the query
+INFO 2022-07-10 15:01:34,669 root Query created 
+INFO 2022-07-10 15:05:09,047 root Welcome Student
+INFO 2022-07-10 15:05:09,060 root fetching total count of Student
+INFO 2022-07-10 15:05:09,061 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 15:05:09,061 root Neuron is created 
+INFO 2022-07-10 15:05:09,061 root Cost determination started for a neuron
+INFO 2022-07-10 15:05:09,061 root Cost of neuron is returned now 
+INFO 2022-07-10 15:05:09,061 root Creating list of courses for an instructor in instructor 
+INFO 2022-07-10 15:05:09,061 root Course instructors list  is created and returned 
+INFO 2022-07-10 15:05:09,061 root Cost determination started for a course
+INFO 2022-07-10 15:05:09,062 root Cost of course is returned now 
+INFO 2022-07-10 15:05:09,062 root Starting registration of  an instructor
+INFO 2022-07-10 15:05:09,062 root Instructor registration process is done 
+INFO 2022-07-10 15:05:09,062 root Instructor skills is being updated
+INFO 2022-07-10 15:05:09,062 root Instructor skills are updated 
+INFO 2022-07-10 15:05:09,062 root Starting creation of a new sub course
+INFO 2022-07-10 15:05:09,062 root Sub Course registration process is completed 
+INFO 2022-07-10 15:05:09,063 root Starting counting of  sub courses for students
+INFO 2022-07-10 15:05:09,063 root Sub Course for students count process is completed 
+INFO 2022-07-10 15:05:09,063 root Starting deletion of a new sub course
+INFO 2022-07-10 15:05:09,063 root Sub Course deletion process is completed 
+INFO 2022-07-10 15:05:09,063 root Registering the Student
+INFO 2022-07-10 15:05:09,063 root Student Registration process is completed 
+INFO 2022-07-10 15:05:09,063 root Updating the Mobile number of Student
+INFO 2022-07-10 15:05:09,063 root Mobile Number updation process is completed 
+INFO 2022-07-10 15:05:09,064 root Starting registration of  an instructor
+INFO 2022-07-10 15:05:09,064 root Instructor registration process is done 
+INFO 2022-07-10 15:05:09,064 root Starting the affiliation process
+INFO 2022-07-10 15:05:09,064 root Affiliation verified 
+INFO 2022-07-10 15:05:09,064 root Updating the bank details
+INFO 2022-07-10 15:05:09,064 root Account updated successfully 
+INFO 2022-07-10 15:05:09,065 root Verifying the techneuron languages
+INFO 2022-07-10 15:05:09,065 root Returning the course kanguages
+INFO 2022-07-10 15:05:09,065 root List created for languages 
+INFO 2022-07-10 15:05:09,065 root Creating list of courses for an instructor
+INFO 2022-07-10 15:05:09,065 root Course list is created and returned 
+INFO 2022-07-10 15:05:09,065 root Languages verified 
+INFO 2022-07-10 15:05:09,065 root Creating the blog
+INFO 2022-07-10 15:05:09,065 root Blog is stored successfully 
+INFO 2022-07-10 15:05:09,066 root Welcome Student
+INFO 2022-07-10 15:05:09,066 root Creating the blog
+INFO 2022-07-10 15:05:09,066 root Blog is stored successfully 
+INFO 2022-07-10 15:05:09,066 root Fetching the blog types
+INFO 2022-07-10 15:05:09,066 root Blog types list is prepared 
+INFO 2022-07-10 15:05:09,067 root Starting the searching of jobs for given job type
+INFO 2022-07-10 15:05:09,067 root List generated for given job type 
+INFO 2022-07-10 15:05:09,067 root Storing the query
+INFO 2022-07-10 15:05:09,068 root Query created 
