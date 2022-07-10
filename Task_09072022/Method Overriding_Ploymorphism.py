@@ -412,11 +412,13 @@ class affiliate(instructor):
         except Exception as e:
             self.logger_affiliate.log("Error Encountered during affiliation check", "ERROR")
 
+ins = instructor("Om",30,"Python")
 afl = affiliate("krishna",31,"C,C++,Core Java")
 print(ins.instructor_registration())
 print("Is krishna eligible for affiliation ",afl.create_affiliate_eligible("krishna"))
 print("Affiliation is ready for krishna as ",afl.bank_update(121214212,"krishna","icici000999","ggcdefghi"))
-
+print(ins.instructor_skills_update("C"))
+print(afl.instructor_skills_update("C++"))
 class jobs:
     def __init__(self):
         self.logger_jobs = logrec('log_file.txt', 'INFO', '%(levelname)s %(asctime)s %(name)s %(message)s')

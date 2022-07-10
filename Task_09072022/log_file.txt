@@ -795,3 +795,54 @@ INFO 2022-07-10 15:05:09,067 root Starting the searching of jobs for given job t
 INFO 2022-07-10 15:05:09,067 root List generated for given job type 
 INFO 2022-07-10 15:05:09,067 root Storing the query
 INFO 2022-07-10 15:05:09,068 root Query created 
+INFO 2022-07-10 17:22:32,048 root Welcome Student
+INFO 2022-07-10 17:22:32,079 root fetching total count of Student
+INFO 2022-07-10 17:22:32,079 root Creating new neuron type on one neuron portal
+INFO 2022-07-10 17:22:32,079 root Neuron is created 
+INFO 2022-07-10 17:22:32,079 root Cost determination started for a neuron
+INFO 2022-07-10 17:22:32,079 root Cost of neuron is returned now 
+INFO 2022-07-10 17:22:32,079 root Creating list of courses for an instructor in instructor 
+INFO 2022-07-10 17:22:32,079 root Course instructors list  is created and returned 
+INFO 2022-07-10 17:22:32,079 root Cost determination started for a course
+INFO 2022-07-10 17:22:32,079 root Cost of course is returned now 
+INFO 2022-07-10 17:22:32,079 root Starting registration of  an instructor
+INFO 2022-07-10 17:22:32,079 root Instructor registration process is done 
+INFO 2022-07-10 17:22:32,079 root Instructor skills is being updated
+INFO 2022-07-10 17:22:32,079 root Instructor skills are updated 
+INFO 2022-07-10 17:22:32,079 root Starting creation of a new sub course
+INFO 2022-07-10 17:22:32,079 root Sub Course registration process is completed 
+INFO 2022-07-10 17:22:32,079 root Starting counting of  sub courses for students
+INFO 2022-07-10 17:22:32,079 root Sub Course for students count process is completed 
+INFO 2022-07-10 17:22:32,079 root Starting deletion of a new sub course
+INFO 2022-07-10 17:22:32,079 root Sub Course deletion process is completed 
+INFO 2022-07-10 17:22:32,079 root Registering the Student
+INFO 2022-07-10 17:22:32,079 root Student Registration process is completed 
+INFO 2022-07-10 17:22:32,079 root Updating the Mobile number of Student
+INFO 2022-07-10 17:22:32,079 root Mobile Number updation process is completed 
+INFO 2022-07-10 17:22:32,079 root Starting registration of  an instructor
+INFO 2022-07-10 17:22:32,079 root Instructor registration process is done 
+INFO 2022-07-10 17:22:32,079 root Starting the affiliation process
+INFO 2022-07-10 17:22:32,079 root Affiliation verified 
+INFO 2022-07-10 17:22:32,079 root Updating the bank details
+INFO 2022-07-10 17:22:32,079 root Account updated successfully 
+INFO 2022-07-10 17:22:32,079 root Instructor skills is being updated
+INFO 2022-07-10 17:22:32,079 root Instructor skills are updated 
+INFO 2022-07-10 17:22:32,079 root Affiliate skills is being updated
+INFO 2022-07-10 17:22:32,079 root Affiliate skills are updated 
+INFO 2022-07-10 17:22:32,079 root Verifying the techneuron languages
+INFO 2022-07-10 17:22:32,079 root Returning the course kanguages
+INFO 2022-07-10 17:22:32,079 root List created for languages 
+INFO 2022-07-10 17:22:32,079 root Creating list of courses for an instructor
+INFO 2022-07-10 17:22:32,079 root Course list is created and returned 
+INFO 2022-07-10 17:22:32,079 root Languages verified 
+INFO 2022-07-10 17:22:32,079 root Creating the blog
+INFO 2022-07-10 17:22:32,079 root Blog is stored successfully 
+INFO 2022-07-10 17:22:32,079 root Welcome Student
+INFO 2022-07-10 17:22:32,079 root Creating the blog
+INFO 2022-07-10 17:22:32,079 root Blog is stored successfully 
+INFO 2022-07-10 17:22:32,079 root Fetching the blog types
+INFO 2022-07-10 17:22:32,079 root Blog types list is prepared 
+INFO 2022-07-10 17:22:32,079 root Starting the searching of jobs for given job type
+INFO 2022-07-10 17:22:32,094 root List generated for given job type 
+INFO 2022-07-10 17:22:32,094 root Storing the query
+INFO 2022-07-10 17:22:32,094 root Query created 
